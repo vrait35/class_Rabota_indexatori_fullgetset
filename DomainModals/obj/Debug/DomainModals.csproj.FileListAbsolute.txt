@@ -1,0 +1,6 @@
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\bin\Debug\DomainModals.dll
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\bin\Debug\DomainModals.pdb
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\obj\Debug\DomainModals.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\obj\Debug\DomainModals.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\obj\Debug\DomainModals.dll
+C:\Users\темирбулата\source\repos\ConsoleApp2\DomainModals\obj\Debug\DomainModals.pdb

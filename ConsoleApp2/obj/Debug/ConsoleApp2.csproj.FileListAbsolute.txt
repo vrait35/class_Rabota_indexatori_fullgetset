@@ -1,0 +1,10 @@
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\DomainModals.dll
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\DomainModals.pdb
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\темирбулата\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
